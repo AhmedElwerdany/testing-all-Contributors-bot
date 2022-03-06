@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AhmedElwerdany",
+      "name": "Ahmed Elwerdany",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9258083?v=4",
+      "profile": "https://github.com/AhmedElwerdany",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "testing-all-Contributors-bot",
+  "projectOwner": "AhmedElwerdany",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
